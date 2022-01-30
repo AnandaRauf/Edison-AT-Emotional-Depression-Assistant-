@@ -37,7 +37,7 @@ Contacts Me:
 Email:
 anandaraufm@gmail.com
 anandarauf02@gmail.com
-anandaraufdev@gamil.com
+anandaraufdev@gmail.com
 
 Whatsapp:
 https://www.wa.me/6283879627956
