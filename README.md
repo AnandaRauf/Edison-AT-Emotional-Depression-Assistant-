@@ -1,1 +1,51 @@
-# Edison-AT-Emotional-Depression-Assistant-
+Edison AT
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Edison AT is software / program Depression Assistant personal.
+
+Feature:
+- Analyze emotional real-time from face.
+- Audio Edison(Comingsoon release).
+- Audio emotional analyze(Comingsoon).
+
+Version: 1.0
+
+Developed by: Ananda Rauf Maududi.
+Developed date: 31 January 2022.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+How to using?:
+
+- Open your cmd in your path folder.
+- Typing python Edison_AT.py or py Edison.py
+
+Wanna contribute?
+
+Requirements:
+
+- Python version 3.9.5(Minimal), download at: https://www.python.org/downloads 
+- Setting Env Variable System path system and user: path/python395, path/python/Lib, and path/python/Lib/Scripts.
+- Library Package: deepface.
+- Text editor / IDE, Visual Studio Code: https://code.visualstudio.com/download, IDE Visual Studio: https://visualstudio.microsoft.com/downloads.
+- Extension Python, download at Visual Studio Code Extension Marketplace.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Contacts Me:
+
+Email:
+anandaraufm@gmail.com
+anandarauf02@gmail.com
+anandaraufdev@gamil.com
+
+Whatsapp:
+https://www.wa.me/6283879627956
+
+Linkedin:
+https://www.linkedin.com/in/ananda-rauf-maududi
+
+Instagram:
+https://www.instagram.com/anandaraufm
+
+
