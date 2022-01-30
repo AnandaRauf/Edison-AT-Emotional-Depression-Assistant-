@@ -1,6 +1,6 @@
 Edison AT
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+![Wallpaper Program](https://raw.githubusercontent.com/AnandaRauf/Edison-AT-Emotional-Depression-Assistant-/main/Wall_Docu.jpg)
 Edison AT is software / program Depression Assistant personal.
 
 Feature:
